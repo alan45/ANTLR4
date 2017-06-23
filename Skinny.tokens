@@ -1,0 +1,13 @@
+T__0=1
+T__1=2
+T__2=3
+T__3=4
+NAME=5
+BLOCK_COMMENT=6
+COMMENT=7
+NL=8
+WS=9
+':'=1
+','=2
+'#define'=3
+'='=4
